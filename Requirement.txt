@@ -1,0 +1,14 @@
+Libraries:
+  pandas
+  numpy
+  librosa
+  nltk
+  scikit-learn
+  soundfile
+  pydub
+  patool
+
+Note:
+
+patoolib comes from the patool package.
+sklearn is installed via scikit-learn.
